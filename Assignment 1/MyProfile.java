@@ -1,5 +1,5 @@
 /*
-Name: Michael Zarglis
+Name: Michael
 Assignment 1
 Due Date: 9/18/2014 @ 11PM
 Description: Prints a short bio about me
