@@ -1,6 +1,9 @@
-/**
- * Created by mike on 11/21/2014.
- */
+/*
+Name: Michael
+Assignment 4
+Due Date: Nov 24 2014
+Description: create a program that will have the user enter the results of a 100m dash.
+*/
 public class Runner {
     String name = "";
     String country = "";
